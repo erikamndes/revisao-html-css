@@ -1,0 +1,41 @@
+/*
+seletor {
+    atributo: valor;
+}
+*/
+
+h2{
+    color:#4fe7ef;
+    background-color: black;
+    border-style: solid;
+    border-color: rosybrown;
+    border-width: 5px;
+    margin: 30px 15px;
+    padding: 20px 10px;
+    width: 300px;
+    height: 30px;
+     
+}
+body{
+    background-image: url("imagens/sunset-1.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+h2.contratado{
+    border-color: fuchsia;
+
+    
+}
+div{
+    border-width: 5px;
+    background-color: yellow;
+    width: 600px;
+    margin-left: 400px;
+
+}
+span{color: rebeccapurple;
+
+}
